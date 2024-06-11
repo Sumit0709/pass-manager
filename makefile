@@ -13,7 +13,7 @@ push:
 	git push -u origin main
 
 add:
-	pass-manager add -a Leetcode -e prasad28sumit@gmail.com -u Sumit0709
+	pass-manager add -a Leetcode -e sumitranjan327@gmail.com-u Sumit0709
 
 get:
 	pass-manager get
@@ -22,8 +22,8 @@ test:
 	pass-manager init 
 	pass-manager init 
 	pass-manager get -a Leetcode 
-	pass-manager add -a Leetcode -e prasad28sumit@gmail.com -u Sumit0709
-	pass-manager add -a Github -e prasad28sumit@gmail.com -u Sumit0709
+	pass-manager add -a Leetcode -e sumitranjan327@gmail.com-u Sumit0709
+	pass-manager add -a Github -e sumitranjan327@gmail.com-u Sumit0709
 	pass-manager get -a Leetcode 
 	pass-manager delete -a Leetcode 
 	pass-manager get -a Leetcode 

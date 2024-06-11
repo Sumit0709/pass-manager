@@ -57,14 +57,14 @@ Use "pass-manager [command] --help" for more information about a command.
 Your secret:
 Data is stored at:  C:\Users\User\.password-manager-data
 
-> pass-manager add -a Leetcode -e prasad28sumit@gmail.com -u Sumit0709 
+> pass-manager add -a Leetcode -e sumitranjan327@gmail.com-u Sumit0709 
 Enter password:
 Your secret:
 User Added!
 {
         App: Leetcode
         UserId: Sumit0709
-        Email: prasad28sumit@gmail.com
+        Email: sumitranjan327@gmail.com
         Password: secret
         Description:
         ModifiedAt: 2023-07-04 05:01:22
