@@ -18,7 +18,7 @@ __But make sure to always remember your secret !!__
 If you have go installed, you can run:
 
 ``` shell
-go install github.com/sum28it/pass-manager@latest
+go install github.com/Sumit0709/pass-manager@latest
 ```
 
 This will put the binary inside __$GOPATH/bin__ directory.
@@ -57,13 +57,13 @@ Use "pass-manager [command] --help" for more information about a command.
 Your secret:
 Data is stored at:  C:\Users\User\.password-manager-data
 
-> pass-manager add -a Leetcode -e prasad28sumit@gmail.com -u sum28it 
+> pass-manager add -a Leetcode -e prasad28sumit@gmail.com -u Sumit0709 
 Enter password:
 Your secret:
 User Added!
 {
         App: Leetcode
-        UserId: sum28it
+        UserId: Sumit0709
         Email: prasad28sumit@gmail.com
         Password: secret
         Description:

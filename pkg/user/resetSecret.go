@@ -4,7 +4,7 @@ import (
 	"errors"
 	"os"
 
-	"github.com/sum28it/pass-manager/pkg/auth"
+	"github.com/Sumit0709/pass-manager/pkg/auth"
 )
 
 func ResetSecret(secret, newSecret string) error {

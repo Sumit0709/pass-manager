@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/spf13/cobra"
-	"github.com/sum28it/pass-manager/pkg/auth"
+	"github.com/Sumit0709/pass-manager/pkg/auth"
 )
 
 // generateCmd represents the generate command

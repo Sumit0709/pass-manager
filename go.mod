@@ -1,4 +1,4 @@
-module github.com/sum28it/pass-manager
+module github.com/Sumit0709/pass-manager
 
 go 1.20
 

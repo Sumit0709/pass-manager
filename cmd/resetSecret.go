@@ -8,7 +8,7 @@ import (
 	"os"
 
 	"github.com/spf13/cobra"
-	"github.com/sum28it/pass-manager/pkg/user"
+	"github.com/Sumit0709/pass-manager/pkg/user"
 	"golang.org/x/term"
 )
 

@@ -10,7 +10,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/sum28it/pass-manager/pkg/auth"
+	"github.com/Sumit0709/pass-manager/pkg/auth"
 )
 
 //CURRENT TASK: Refactor to support linux path names

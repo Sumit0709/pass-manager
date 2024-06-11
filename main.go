@@ -1,9 +1,9 @@
 /*
-Copyright © 2023 sum28it prasad28sumit@gmail.com
+Copyright © 2024 Sumit sumitranjan327@gmail.com
 */
 package main
 
-import "github.com/sum28it/pass-manager/cmd"
+import "github.com/Sumit0709/pass-manager/cmd"
 
 func main() {
 	cmd.Execute()

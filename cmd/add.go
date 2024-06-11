@@ -1,5 +1,5 @@
 /*
-Copyright © 2023 sum28it prasad28sumit@gmail.com
+Copyright © 2023 Sumit0709 prasad28sumit@gmail.com
 */
 package cmd
 
@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/spf13/cobra"
-	"github.com/sum28it/pass-manager/pkg/user"
+	"github.com/Sumit0709/pass-manager/pkg/user"
 	"golang.org/x/term"
 )
 
